@@ -50,11 +50,12 @@ The project was swiftly initiated by P Bellec, based on the existing template cr
 
 #### Deliverable 1: Age vs. speed naming number of corrected items
 The dataset only indicated that different speed-naming tasks were used for participants of different ages, but it did not specify which tasks were used. Only by plotting the items corrected for each age bracket did I infer that the same task was used for the 3–5, 5–7, and 7+ age groups.
+
 ![Scatterplot of age vs. speed naming](scatterplot_age_speed.png)
 
-#### Deliverable 2: project gallery
+#### Deliverable 2: Whole-brain RSFC connectome
 
-You can check out the [2020 BrainHack School project gallery](https://psy6983.brainhackmtl.org/project/)
+![Whole-brain RSFC connectome](whole-brain_RSFC_connectome.png)
 
 ##### 
 #### Deliverable 3: Instructions
