@@ -14,15 +14,14 @@ summary: "This project investigated how resting-state functional connectivity (R
 
 Resting-state functional connectivity (RSFC) reflects the brain’s intrinsic network organization in the absence of task demands. Prior research shows that children with developmental dyslexia (DD) exhibit reduced connectivity between left temporo-frontal regions—key areas for language processing—and increased connectivity within the default mode network (DMN) compared to typically developing (TD) readers (Schurz et al., 2015). This project aims to explore how RSFC relates to early phonological and language abilities in preschool-aged children.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PTYs_JFKsHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Tools
 
-The "project template" project will rely on the following technologies:
- * Excel & Google Colab
- * nilearn 
- * pandas & numpy
- * matplotlib & seaborn - for data visualization
+This project used:
+ * Python (Google Colab) & Excel
+ * `nilearn` for ROI-wise extraction and brain visualization 
+ * `pandas` & `numpy` for data analysis
+ * `matplotlib` & `seaborn` for data visualization
 
 ### Data
 
@@ -30,10 +29,8 @@ Reynolds, J., Long, X., Paniukov, D., Bagshawe, M., Dewey, D., & Lebel, C. (2023
 
 ### Deliverables
 
-At the end of this project, we will have:
- - The current markdown document, completed and revised.
- - A gallery of the student projects at Brainhack 2020.
- - Instructions on the website about how to submit a pull request to the [brainhack school website](https://github.com/PSY6983-2021) in order to add the project description to the website.
+- Whole-brain heatmap
+- 
 
 ## Results
 
@@ -43,9 +40,10 @@ The project was swiftly initiated by P Bellec, based on the existing template cr
 
 ### Tools I learned during this project
 
- * **Meta-project** P Bellec learned how to do a meta project for the first time, which is developping a framework while using it at the same time. It felt really weird, but somehow quite fun as well.
- * **Github workflow-** The successful use of this template approach will demonstrate that it is possible to incorporate dozens of students presentation on a website collaboratively over a few weeks.
- * **Project content** Through the project reports generated using the template, it is possible to learn about what exactly the brainhack school students are working on.
+- `nilearn` atlas-based ROI extraction & brain connectome plotting
+- Correlation matrix with fMRI signals to behavorial data
+- `pandas` & `numpy` data cleaning & analysis
+- `seaborn` for data visualization
 
 ### Results
 
@@ -78,8 +76,7 @@ Here are other good examples of repositories:
 
  To be made available soon.
 
-## Conclusion and acknowledgement
-
-The BHS team hope you will find this template helpful in documenting your project. Developping this template was a group effort, and benefitted from the feedback and ideas of all BHS students over the years.
-
-You can also make submit your project to neurolibre https://neurolibre.org/. It is a preprint server for interactive data analyses. It is tailored for publishing interactive neuroscience notebooks that can seamlessly integrate data, text, code and figures.The submission instructions can be found here https://docs.neurolibre.org/en/latest/index.html and the jupyter book docs there https://jupyterbook.org/intro.html.
+## Discussion
+- The lack of significant results may be due to the small sample size (n = 15) and limited variability in behavioral measures (i.e., small standard deviations).
+- The effects of repeated measurements should be considered in future analyses.
+- It is worth noted that 'passive viewing' ≠ 'resting state'; the original dataset did not record which movie participants were passively viewing during scanning.
