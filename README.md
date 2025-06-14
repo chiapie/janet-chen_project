@@ -50,7 +50,8 @@ The project was swiftly initiated by P Bellec, based on the existing template cr
 
 #### Deliverable 1: report template
 
-You are currently reading the report template! I will let you judge whether it is useful or not. If you think there is something that could be improved, please do not hesitate to open an issue [here](https://github.com/PSY6983-2021/project_template/issues/) and let us know.
+![The dataset only indicated that different speed-naming tasks were used for participants of different ages, but it did not specify which tasks were used. Only by plotting the items corrected for each age bracket did I infer that the same task was used for the 3–5, 5–7, and 7+ age groups.](/Users/janetchen/Downloads/janet-chen_project)
+
 
 #### Deliverable 2: project gallery
 
