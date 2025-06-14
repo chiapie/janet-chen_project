@@ -69,6 +69,7 @@ threshold = 0.99
 <p align="center">
   <img src="result_summary.png" alt="Results summary " width="660"/>
 </p>
+
 ## Discussion
 - The lack of significant results may be due to the small sample size (n = 15) and limited variability in behavioral measures (i.e., small standard deviations).
 - The effects of repeated measurements should be considered in future analyses.
