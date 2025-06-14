@@ -50,7 +50,7 @@ The project was swiftly initiated by P Bellec, based on the existing template cr
 
 #### Deliverable 1: age vs. speed naming number of items corrected plot
 
-![The dataset only indicated that different speed-naming tasks were used for participants of different ages, but it did not specify which tasks were used. Only by plotting the items corrected for each age bracket did I infer that the same task was used for the 3–5, 5–7, and 7+ age groups.](./janet-chen_project/scatterplot_age_speed.png)
+![The dataset only indicated that different speed-naming tasks were used for participants of different ages, but it did not specify which tasks were used. Only by plotting the items corrected for each age bracket did I infer that the same task was used for the 3–5, 5–7, and 7+ age groups.](scatterplot_age_speed.png)
 
 
 #### Deliverable 2: project gallery
