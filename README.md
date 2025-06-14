@@ -4,7 +4,7 @@ date: "2025-06-15"
 title: "Using RSFC to Predict Early Language & Phonological Processing Abilities"
 github_repo: https://github.com/chiapie/janet-chen_project
 tags: [fmri, rsfc, language]
-summary: "This project investigated how resting-state functional connectivity (RSFC) in fMRI data from preschool children relates to early speed naming and phonological processing abilities. Using the Destrieux (2009) atlas, extracting ROI-wise brain signals and computing within-network connectivity strength across multiple brain networks (e.g., DMN, language network). Correlation analyses then revealed trends between network resting-state and behavioral scores."
+summary: "This project examined the relationship between resting-state functional connectivity (RSFC) and early speed naming and phonological processing in preschoolers. Using the Destrieux (2009) atlas, ROI-wise signals were extracted to compute within-network connectivity (e.g., DMN, language network), revealing correlations with behavioral scores."
 ---
 <!-- This is an html comment and this won't appear in the rendered page. You are now editing the "content" area, the core of your description. Everything that you can do in markdown is allowed below. We added a couple of comments to guide your through documenting your progress. -->
 
