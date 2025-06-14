@@ -29,6 +29,7 @@ Reynolds, J., Long, X., Paniukov, D., Bagshawe, M., Dewey, D., & Lebel, C. (2023
 
 ### Deliverables
 
+- Project slide: https://docs.google.com/presentation/d/1Qv_kKj4uIC7enOUea1mDupAcgzFz-JtHmtoqQdst6L8/edit?usp=sharing
 - Scatter plot_age vs. speed naming number corrected
 - Whole-brain RSFC connectome
 - Network strength-behavorial score correlation
@@ -42,9 +43,8 @@ The project was swiftly initiated by P Bellec, based on the existing template cr
 ### Tools I learned during this project
 
 - `nilearn` atlas-based ROI extraction & brain connectome plotting
-- Correlation matrix with fMRI signals to behavorial data
-- `pandas` & `numpy` data cleaning & analysis
-- `seaborn` for data visualization
+- `pandas` & `numpy` data cleaning & analysis; correlation matrix with fMRI signals to behavorial data
+- `matplotlib` & `seaborn` for data visualization
 
 ### Results
 
@@ -56,26 +56,9 @@ You are currently reading the report template! I will let you judge whether it i
 
 You can check out the [2020 BrainHack School project gallery](https://psy6983.brainhackmtl.org/project/)
 
-##### ECG pupilometry pipeline by Marce Kauffmann
-
-The repository of this project can be found [here](https://github.com/mtl-brainhack-school-2019/ecg_pupillometry_pipeline_kaufmann). The objective was to create a processing pipeline for ECG and pupillometry data. The motivation behind this task is that Marcel's lab (MIST Lab @ Polytechnique Montreal) was conducting a Human-Robot-Interaction user study. The repo features:
- * a [video introduction](http://www.youtube.com/watch/8ZVCNeX42_A) to the project.
- * a presentation [made in a jupyter notebook](https://github.com/mtl-brainhack-school-2019/ecg_pupillometry_pipeline_kaufmann/blob/master/BrainHackPresentation.ipynb) on the results of the project.
- * Notebooks for all analyses.
- * Detailed requirements files, making it easy for others to replicate the environment of the notebook.
- * An overview of the results in the markdown document.
-
-##### Other projects
-Here are other good examples of repositories:
-- [Learning to manipulate biosignals with python](https://github.com/mtl-brainhack-school-2019/franclespinas-biosignals) by François Lespinasse
-- [Run multivariate anaylysis to relate behavioral and electropyhysiological data](https://github.com/mtl-brainhack-school-2019/PLS_PV_Behaviour)
-- [PET pipeline automation and structural MRI exploration](https://github.com/mtl-brainhack-school-2019/rwickens-sMRI-PET) by Rebekah Wickens
-- [Working with PSG [EEG] data from Parkinson's patients](https://github.com/mtl-brainhack-school-2019/Soraya-sleep-data-in-PD-patients) by Cryomatrix
-- [Exploring Brain Functional Activation in Adolescents Who Attempted Suicide](https://github.com/mtl-brainhack-school-2019/Anthony-Gifuni-repo) by Anthony Gifuni
-
+##### 
 #### Deliverable 3: Instructions
 
- To be made available soon.
 
 ## Discussion
 - The lack of significant results may be due to the small sample size (n = 15) and limited variability in behavioral measures (i.e., small standard deviations).
