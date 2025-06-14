@@ -29,8 +29,9 @@ Reynolds, J., Long, X., Paniukov, D., Bagshawe, M., Dewey, D., & Lebel, C. (2023
 
 ### Deliverables
 
-- Whole-brain heatmap
-- 
+- Scatter plot_age vs. speed naming number corrected
+- Whole-brain RSFC connectome
+- Network strength-behavorial score correlation
 
 ## Results
 
