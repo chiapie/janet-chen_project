@@ -38,10 +38,6 @@ Reynolds, J., Long, X., Paniukov, D., Bagshawe, M., Dewey, D., & Lebel, C. (2023
 
 ## Results
 
-### Progress overview
-
-The project was swiftly initiated by P Bellec, based on the existing template created in 2019 by Tristan Glatard and improved by different students. It was really not that hard. Community feedback is expected to lead to rapid further improvements of this first version.
-
 ### Tools I learned during this project
 
 - `nilearn` atlas-based ROI extraction & brain connectome plotting
