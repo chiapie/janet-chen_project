@@ -62,7 +62,7 @@ threshold = 0.99
 
 ##### 
 #### Deliverable 3: Correlation between network strength and behavioral scores results plots
-Examined network: 
+*Examined network*
 - Default Mode Network (DMN)
 - Language Network
 - Visual Attention & Scanning
