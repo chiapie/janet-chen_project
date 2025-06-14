@@ -16,7 +16,6 @@ Resting-state functional connectivity (RSFC) reflects the brain’s intrinsic ne
 
 This project aims to investigate the relationship between RSFC and early phonological and language abilities in preschool children.
 
-
 ### Tools
 
 This project used:
