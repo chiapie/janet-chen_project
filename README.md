@@ -50,12 +50,14 @@ The project was swiftly initiated by P Bellec, based on the existing template cr
 
 #### Deliverable 1: Age vs. speed naming number of corrected items
 The dataset only indicated that different speed-naming tasks were used for participants of different ages, but it did not specify which tasks were used. Only by plotting the items corrected for each age bracket did I infer that the same task was used for the 3–5, 5–7, and 7+ age groups.
-
-![Scatterplot of age vs. speed naming](scatterplot_age_speed.png)
+<p align="center">
+  <img src="scatterplot_age_speed.png" alt="Scatterplot of age vs. speed naming" width="500"/>
+</p>
 
 #### Deliverable 2: Whole-brain RSFC connectome
-
-![Whole-brain RSFC connectome](whole-brain_RSFC_connectome.png)
+<p align="center">
+  <img src="whole-brain_RSFC_connectome.png" alt="Whole-brain RSFC connectome" width="500"/>
+</p>
 
 ##### 
 #### Deliverable 3: Instructions
