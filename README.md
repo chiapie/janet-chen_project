@@ -51,7 +51,7 @@ The project was swiftly initiated by P Bellec, based on the existing template cr
 #### Deliverable 1: Age vs. speed naming number of corrected items
 The dataset only indicated that different speed-naming tasks were used for participants of different ages, but it did not specify which tasks were used. Only by plotting the items corrected for each age bracket did I infer that the same task was used for the 3–5, 5–7, and 7+ age groups.
 <p align="center">
-  <img src="scatterplot_age_speed.png" alt="Scatterplot of age vs. speed naming" width="600"/>
+  <img src="scatterplot_age_speed.png" alt="Scatterplot of age vs. speed naming" width="640"/>
 </p>
 
 #### Deliverable 2: Whole-brain RSFC connectome
@@ -62,6 +62,10 @@ threshold = 0.99
 
 ##### 
 #### Deliverable 3: Correlation between network strength and behavioral scores results plots
+Examined network: 
+- Default Mode Network (DMN)
+- Language Network
+- Visual Attention & Scanning
 
 ## Discussion
 - The lack of significant results may be due to the small sample size (n = 15) and limited variability in behavioral measures (i.e., small standard deviations).
