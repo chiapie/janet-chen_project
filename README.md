@@ -60,7 +60,6 @@ threshold = 0.99
   <img src="whole-brain_RSFC_connectome.png" alt="Whole-brain RSFC connectome" width="600"/>
 </p>
 
-##### 
 #### Deliverable 3: Correlation between network strength and behavioral scores results plots
 *Examined network*
 - Default Mode Network (DMN)
