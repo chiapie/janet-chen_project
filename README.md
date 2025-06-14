@@ -3,12 +3,12 @@ BrainHack School 2025 Project
 
 ---
 type: "project" # DON'T TOUCH THIS ! :)
-date: "2020-05-16" # Date you first upload your project.
+date: "2025-06-15" # Date you first upload your project.
 # Title of your project (we like creative title)
 title: "Using RSFC to Predict Early Language & Phonological Processing Abilities"
 
 # List the names of the collaborators within the [ ]. If alone, simple put your name within []
-names: [Chia-Pei (Janet) Chen]
+names: [Chia-Pei Chen]
 
 # Your project GitHub repository URL
 github_repo: https://github.com/chiapie/janet-chen_project
