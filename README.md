@@ -66,7 +66,7 @@ threshold = 0.99
 - Language Network
 - Visual Attention & Scanning
 <p align="center">
-  <img src="result_summary.png" alt="Results summary " width="660"/>
+  <img src="result_summary.png" alt="Results summary" width="660"/>
 </p>
 
 ## Discussion
