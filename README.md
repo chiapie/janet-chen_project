@@ -12,7 +12,9 @@ summary: "This project examined the relationship between resting-state functiona
 
 ### Background
 
-Resting-state functional connectivity (RSFC) reflects the brain’s intrinsic network organization in the absence of task demands. Prior research has shown that children with developmental dyslexia (DD) exhibit reduced connectivity between left temporal-frontal regions–key areas for language processing–and increased connectivity within the default mode network (DMN) compared to typically developing (TD) readers (Schurz et al., 2015). This project aims to investigate the relationship between RSFC and early phonological and language abilities in preschool-aged children.
+Resting-state functional connectivity (RSFC) reflects the brain’s intrinsic network organization in the absence of task demands. Prior research has shown that children with developmental dyslexia (DD) exhibit reduced connectivity between left temporal-frontal regions–key areas for language processing–and increased connectivity within the default mode network (DMN) compared to typically developing (TD) readers (Schurz et al., 2015). 
+
+This project aims to investigate the relationship between RSFC and early phonological and language abilities in preschool children.
 
 
 ### Tools
