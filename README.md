@@ -30,9 +30,9 @@ Reynolds, J., Long, X., Paniukov, D., Bagshawe, M., Dewey, D., & Lebel, C. (2023
 ### Deliverables
 
 - Project slide: https://docs.google.com/presentation/d/1Qv_kKj4uIC7enOUea1mDupAcgzFz-JtHmtoqQdst6L8/edit?usp=sharing
-- Scatter plot_age vs. speed naming number corrected
+- Scatter plot 'age vs. speed naming number corrected'
 - Whole-brain RSFC connectome
-- Network strength-behavorial score correlation
+- Correlation between network strength and behavioral scores
 
 ## Results
 
